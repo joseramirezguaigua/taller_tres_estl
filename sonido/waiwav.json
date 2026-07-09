@@ -4,5 +4,5 @@
   {"url":"estatica/003_estatica_R.wav","type":"audio","bank":"estatica","n":1},
   {"url":"pajaro/004_pajaro_highpass.wav","type":"audio","bank":"pajaro","n":0},
   {"url":"piedra/005_pedrita.wav","type":"audio","bank":"piedra","n":0},
-  {"url":"tierra/006_rasgando_tierra.wav","type":"audio","bank":"tierra","n":0},
+  {"url":"tierra/006_rasgando_tierra.wav","type":"audio","bank":"tierra","n":0}
 ] 
